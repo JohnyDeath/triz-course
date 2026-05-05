@@ -4,9 +4,7 @@
 (Теория решения изобретательских задач), адаптированного под архитекторов
 и разработчиков автоматизированных систем учёта.
 
-**Открыть курс:** https://&lt;your-username&gt;.github.io/triz-course/
-
-> Замените `<your-username>` на ваш логин GitHub.
+**Открыть курс:** [https://johnydeath.github.io/triz-course/](https://johnydeath.github.io/triz-course/)
 
 ## Что внутри
 
