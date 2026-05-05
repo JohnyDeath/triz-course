@@ -4,7 +4,7 @@
 (Теория решения изобретательских задач), адаптированного под архитекторов
 и разработчиков автоматизированных систем учёта.
 
-**Открыть курс:** [https://johnydeath.github.io/triz-course/](https://johnydeath.github.io/triz-course/)
+**Открыть курс:** https://triz-course.martynenkov.pro/
 
 ## Что внутри
 
@@ -47,6 +47,7 @@ python3 -m http.server 8000
 ```
 .
 ├── index.html      # сам сайт (всё в одном файле)
+├── CNAME           # привязка к собственному домену для GitHub Pages
 ├── .nojekyll       # отключает Jekyll-обработку на GitHub Pages
 └── README.md       # этот файл
 ```
